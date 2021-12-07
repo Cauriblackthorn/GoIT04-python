@@ -4,7 +4,7 @@ setup(
     name='clean_folders',
     version='1',
     description='Сортировка файлов по типам (extensions).',
-    url='',
+    url='https://github.com/Cauriblackthorn/GoIT04-python/blob/main/less_07',
     author='Inna K',
     author_email='kostenko.inna.victorovna@gmail.com',
     license='MIT',
